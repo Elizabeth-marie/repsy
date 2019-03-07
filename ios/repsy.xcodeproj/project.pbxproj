@@ -13,7 +13,7 @@
 		00C302E91ABCBA2D00DB3ED1 /* libRCTNetwork.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302DC1ABCB9D200DB3ED1 /* libRCTNetwork.a */; };
 		00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302E41ABCB9EE00DB3ED1 /* libRCTVibration.a */; };
 		00E356F31AD99517003FC87E /* repsyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* repsyTests.m */; };
-		089162C5E933419884CF89D0 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E0A0EAAAEA9C48D7A8BF7E3E /* Zocial.ttf */; };
+		089162C5E933419884CF89D0 /* (null) in Resources */ = {isa = PBXBuildFile; };
 		11D1A2F320CAFA9E000508D9 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
 		133E29F31AD74F7200F7D852 /* libRCTLinking.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 78C398B91ACF4ADC00677621 /* libRCTLinking.a */; };
 		139105C61AF99C1200B5F7CC /* libRCTSettings.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 139105C11AF99BAD00B5F7CC /* libRCTSettings.a */; };
@@ -24,7 +24,7 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		140ED2AC1D01E1AD002B40FF /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
 		146834051AC3E58100842450 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
-		22B07B5C0C3A4435BCF3EEFA /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 236B421D1F4D4BE297E94ACE /* FontAwesome5_Regular.ttf */; };
+		22B07B5C0C3A4435BCF3EEFA /* (null) in Resources */ = {isa = PBXBuildFile; };
 		231618F4F6C94398A823F20F /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9BD5A49AB5C34DA9B3F38FFF /* EvilIcons.ttf */; };
 		288B82AA6A7042B398CE7493 /* rubicon-icon-font.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5F5546B86FA6472E9257BF8F /* rubicon-icon-font.ttf */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
@@ -41,21 +41,21 @@
 		2DCD954D1E0B4F2C00145EB5 /* repsyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* repsyTests.m */; };
 		2DF0FFEE2056DD460020B375 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA31DF850E9000B6D8A /* libReact.a */; };
 		3364E52B07A04FB084B12E7C /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3E06DED06277436ABC33D98C /* FontAwesome.ttf */; };
-		4479E0B9500C462F901B314C /* Roboto_medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC4808E614AE43E49A160497 /* Roboto_medium.ttf */; };
-		45E98F0F8A19464A858A174E /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC6E620563F149C086134562 /* Foundation.ttf */; };
+		421BBE9F222E259F00D7A6FF /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 421BBE9E222E259F00D7A6FF /* StoreKit.framework */; };
+		4479E0B9500C462F901B314C /* (null) in Resources */ = {isa = PBXBuildFile; };
+		45E98F0F8A19464A858A174E /* (null) in Resources */ = {isa = PBXBuildFile; };
 		4BF1F1F77D354F4398815A1A /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A35ACE715FA849A688AA5EEE /* Feather.ttf */; };
 		54F9AEA7F0D74E87AA346F81 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E3D72C30D3449BDBA34C986 /* FontAwesome5_Brands.ttf */; };
-		6BB89195A5A14358BEDCF596 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2A09F6885336450195FBC0FB /* FontAwesome5_Solid.ttf */; };
+		6BB89195A5A14358BEDCF596 /* (null) in Resources */ = {isa = PBXBuildFile; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		8BD7F476FFB3B12077A82A54 /* libPods-repsy.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DBCD8E5B801173E6DC035287 /* libPods-repsy.a */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
 		C112B37EAE5F4DB3A85E74A9 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0049A1224B914309BF2BCDAD /* SimpleLineIcons.ttf */; };
-		C2A48C9FAC7F4139908502AF /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C47E003F6C244B9D8FF28941 /* Octicons.ttf */; };
+		C2A48C9FAC7F4139908502AF /* (null) in Resources */ = {isa = PBXBuildFile; };
 		C2D4A56DC2C54647AA3E2DCA /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4ACA9C053D504F47BC0FA36F /* MaterialCommunityIcons.ttf */; };
-		C971E64C841F451594E072BA /* Roboto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BA4FB2D5462843FF95DF9121 /* Roboto.ttf */; };
-		CE7A5200F7134D198368B19C /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DC739F980E1F45A8BB846D17 /* Entypo.ttf */; };
+		C971E64C841F451594E072BA /* (null) in Resources */ = {isa = PBXBuildFile; };
+		CE7A5200F7134D198368B19C /* (null) in Resources */ = {isa = PBXBuildFile; };
 		CE8A224B0819488C8DC9D9B3 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5AE31DB35E434922AD640D28 /* MaterialIcons.ttf */; };
-		E67456B6D8A2474DA33DF402 /* libPods-repsy.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 30C199F70CBF78E60A1B5963 /* libPods-repsy.a */; };
 		FDBF4934F9F444409FB673A5 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 287D9BE948674819B4765163 /* Ionicons.ttf */; };
 /* End PBXBuildFile section */
 
@@ -349,7 +349,7 @@
 		05292F665156FDE81E420603 /* Pods-repsy.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-repsy.release.xcconfig"; path = "Pods/Target Support Files/Pods-repsy/Pods-repsy.release.xcconfig"; sourceTree = "<group>"; };
 		139105B61AF99BAD00B5F7CC /* RCTSettings.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTSettings.xcodeproj; path = "../node_modules/react-native/Libraries/Settings/RCTSettings.xcodeproj"; sourceTree = "<group>"; };
 		139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTWebSocket.xcodeproj; path = "../node_modules/react-native/Libraries/WebSocket/RCTWebSocket.xcodeproj"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* repsy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = repsy.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07F961A680F5B00A75B9A /* repsy-1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "repsy-1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = repsy/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = repsy/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
@@ -357,14 +357,13 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = repsy/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = repsy/main.m; sourceTree = "<group>"; };
 		146833FF1AC3E56700842450 /* React.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = React.xcodeproj; path = "../node_modules/react-native/React/React.xcodeproj"; sourceTree = "<group>"; };
-		287D9BE948674819B4765163 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-ionicons/fonts/Ionicons.ttf"; sourceTree = "<group>"; };
+		287D9BE948674819B4765163 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-ionicons/fonts/Ionicons.ttf"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* repsy-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "repsy-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* repsy-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "repsy-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D16E6891FA4F8E400B85C8A /* libReact.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libReact.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		30C199F70CBF78E60A1B5963 /* libPods-repsy.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-repsy.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3296BDD0426B01537803F2F4 /* Pods-repsy.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-repsy.debug.xcconfig"; path = "Pods/Target Support Files/Pods-repsy/Pods-repsy.debug.xcconfig"; sourceTree = "<group>"; };
 		3E06DED06277436ABC33D98C /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/native-base/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
 		3F0D0BBE3E4847B3989901D8 /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/native-base/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
+		421BBE9E222E259F00D7A6FF /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		4ACA9C053D504F47BC0FA36F /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/native-base/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
 		5AE31DB35E434922AD640D28 /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/native-base/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 		5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTAnimation.xcodeproj; path = "../node_modules/react-native/Libraries/NativeAnimation/RCTAnimation.xcodeproj"; sourceTree = "<group>"; };
@@ -394,6 +393,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */,
+				421BBE9F222E259F00D7A6FF /* StoreKit.framework in Frameworks */,
 				11D1A2F320CAFA9E000508D9 /* libRCTAnimation.a in Frameworks */,
 				146834051AC3E58100842450 /* libReact.a in Frameworks */,
 				00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */,
@@ -551,18 +551,10 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1D5513148CE2A6EB659C658D /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				3296BDD0426B01537803F2F4 /* Pods-repsy.debug.xcconfig */,
-				AE820B7687810E7BAEAA5CC6 /* Pods-repsy.release.xcconfig */,
-			);
-			name = Pods;
-			sourceTree = "<group>";
-		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				421BBE9E222E259F00D7A6FF /* StoreKit.framework */,
 				2D16E6891FA4F8E400B85C8A /* libReact.a */,
 				DBCD8E5B801173E6DC035287 /* libPods-repsy.a */,
 			);
@@ -643,7 +635,7 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* repsy.app */,
+				13B07F961A680F5B00A75B9A /* repsy-1.app */,
 				00E356EE1AD99517003FC87E /* repsyTests.xctest */,
 				2D02E47B1E0B4A5D006451C7 /* repsy-tvOS.app */,
 				2D02E4901E0B4A5D006451C7 /* repsy-tvOSTests.xctest */,
@@ -665,26 +657,17 @@
 			children = (
 				287D9BE948674819B4765163 /* Ionicons.ttf */,
 				3F0D0BBE3E4847B3989901D8 /* AntDesign.ttf */,
-				DC739F980E1F45A8BB846D17 /* Entypo.ttf */,
 				9BD5A49AB5C34DA9B3F38FFF /* EvilIcons.ttf */,
 				A35ACE715FA849A688AA5EEE /* Feather.ttf */,
 				3E06DED06277436ABC33D98C /* FontAwesome.ttf */,
 				8E3D72C30D3449BDBA34C986 /* FontAwesome5_Brands.ttf */,
-				236B421D1F4D4BE297E94ACE /* FontAwesome5_Regular.ttf */,
-				2A09F6885336450195FBC0FB /* FontAwesome5_Solid.ttf */,
-				EC6E620563F149C086134562 /* Foundation.ttf */,
 				A6388FDE796848D482F83FBA /* Ionicons.ttf */,
 				4ACA9C053D504F47BC0FA36F /* MaterialCommunityIcons.ttf */,
 				5AE31DB35E434922AD640D28 /* MaterialIcons.ttf */,
-				C47E003F6C244B9D8FF28941 /* Octicons.ttf */,
-				EC4808E614AE43E49A160497 /* Roboto_medium.ttf */,
-				BA4FB2D5462843FF95DF9121 /* Roboto.ttf */,
 				5F5546B86FA6472E9257BF8F /* rubicon-icon-font.ttf */,
 				0049A1224B914309BF2BCDAD /* SimpleLineIcons.ttf */,
-				E0A0EAAAEA9C48D7A8BF7E3E /* Zocial.ttf */,
 			);
 			name = Resources;
-			path = "";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -724,7 +707,7 @@
 			);
 			name = repsy;
 			productName = "Hello World";
-			productReference = 13B07F961A680F5B00A75B9A /* repsy.app */;
+			productReference = 13B07F961A680F5B00A75B9A /* repsy-1.app */;
 			productType = "com.apple.product-type.application";
 		};
 		2D02E47A1E0B4A5D006451C7 /* repsy-tvOS */ = {
@@ -775,6 +758,14 @@
 					00E356ED1AD99517003FC87E = {
 						CreatedOnToolsVersion = 6.2;
 						TestTargetID = 13B07F861A680F5B00A75B9A;
+					};
+					13B07F861A680F5B00A75B9A = {
+						DevelopmentTeam = PVLYNKPRTX;
+						SystemCapabilities = {
+							com.apple.InAppPurchase = {
+								enabled = 1;
+							};
+						};
 					};
 					2D02E47A1E0B4A5D006451C7 = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -1135,23 +1126,22 @@
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
 				FDBF4934F9F444409FB673A5 /* Ionicons.ttf in Resources */,
-				9B99DBC18B3441E5A64AA5E8 /* AntDesign.ttf in Resources */,
-				CE7A5200F7134D198368B19C /* Entypo.ttf in Resources */,
+				CE7A5200F7134D198368B19C /* (null) in Resources */,
 				231618F4F6C94398A823F20F /* EvilIcons.ttf in Resources */,
 				4BF1F1F77D354F4398815A1A /* Feather.ttf in Resources */,
 				3364E52B07A04FB084B12E7C /* FontAwesome.ttf in Resources */,
 				54F9AEA7F0D74E87AA346F81 /* FontAwesome5_Brands.ttf in Resources */,
-				22B07B5C0C3A4435BCF3EEFA /* FontAwesome5_Regular.ttf in Resources */,
-				6BB89195A5A14358BEDCF596 /* FontAwesome5_Solid.ttf in Resources */,
-				45E98F0F8A19464A858A174E /* Foundation.ttf in Resources */,
+				22B07B5C0C3A4435BCF3EEFA /* (null) in Resources */,
+				6BB89195A5A14358BEDCF596 /* (null) in Resources */,
+				45E98F0F8A19464A858A174E /* (null) in Resources */,
 				C2D4A56DC2C54647AA3E2DCA /* MaterialCommunityIcons.ttf in Resources */,
 				CE8A224B0819488C8DC9D9B3 /* MaterialIcons.ttf in Resources */,
-				C2A48C9FAC7F4139908502AF /* Octicons.ttf in Resources */,
-				4479E0B9500C462F901B314C /* Roboto_medium.ttf in Resources */,
-				C971E64C841F451594E072BA /* Roboto.ttf in Resources */,
+				C2A48C9FAC7F4139908502AF /* (null) in Resources */,
+				4479E0B9500C462F901B314C /* (null) in Resources */,
+				C971E64C841F451594E072BA /* (null) in Resources */,
 				288B82AA6A7042B398CE7493 /* rubicon-icon-font.ttf in Resources */,
 				C112B37EAE5F4DB3A85E74A9 /* SimpleLineIcons.ttf in Resources */,
-				089162C5E933419884CF89D0 /* Zocial.ttf in Resources */,
+				089162C5E933419884CF89D0 /* (null) in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1305,7 +1295,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/repsy.app/repsy";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/repsy-1.app/repsy-1";
 			};
 			name = Debug;
 		};
@@ -1323,7 +1313,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/repsy.app/repsy";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/repsy-1.app/repsy-1";
 			};
 			name = Release;
 		};
@@ -1334,6 +1324,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
+				DEVELOPMENT_TEAM = PVLYNKPRTX;
+				ENABLE_BITCODE = YES;
+				GCC_NO_COMMON_BLOCKS = NO;
 				INFOPLIST_FILE = repsy/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1341,8 +1334,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = repsy;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tim.repsytest;
+				PRODUCT_NAME = "repsy-1";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -1353,6 +1346,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = PVLYNKPRTX;
+				ENABLE_BITCODE = YES;
+				GCC_NO_COMMON_BLOCKS = NO;
 				INFOPLIST_FILE = repsy/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1360,8 +1356,13 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = repsy;
+				"OTHER_LDFLAGS[arch=*]" = (
+					"$(inherited)",
+					"-ObjC",
+					"-lc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.tim.repsytest;
+				PRODUCT_NAME = "repsy-1";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
@@ -1517,6 +1518,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_MODULE_NAME = "$(PRODUCT_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -1562,6 +1564,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_MODULE_NAME = "$(PRODUCT_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
