@@ -10,8 +10,8 @@ let state = {
   //Dummy user state for other componenets to pull. Will need to set this state from user object on signin
   // user: {
   //   uid: 999999999,
-  //   fname: 'Doctor',
-  //   lname: 'Smith',
+  //   fname: 'Frank',
+  //   lname: 'Johnson',
   //   id: 2,
   // },
   // isLoggedIn: true,
